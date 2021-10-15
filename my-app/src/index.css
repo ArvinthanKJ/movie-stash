@@ -1,0 +1,33 @@
+body {
+  background-color: #2f0d49;
+  color: aliceblue;
+}
+.mx {
+  background-color: rgb(48, 15, 80);
+}
+
+input[type="text"] {
+  border: none;
+  color: white;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2px 1px;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  align-content: center;
+  background-color: white;
+  color: black;
+  border: 1px solid #22be34;
+}
+
+#transform:hover {
+  transform: translateY(3%);
+  transform: scale(1.09);
+}
+.login {
+  position: relative;
+  text-align: center;
+}
